@@ -45,6 +45,7 @@ const IMG = styled.img`
 
 const Wrapper = styled.div`
   margin-top: 5vh;
+  margin-bottom: 10vh;
 
   @media (max-width: 1250px) {
     margin-top: 5vh;
@@ -52,7 +53,6 @@ const Wrapper = styled.div`
 
   @media (max-width: 800px) {
     margin-top: 5vh;
-    margin-bottom: 10vh;
   }
 `;
 
