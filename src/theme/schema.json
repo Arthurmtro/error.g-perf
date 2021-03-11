@@ -1,0 +1,13 @@
+{
+  "id": "T_001",
+  "name": "default",
+  "colors": {
+    "body": "#ffffff",
+    "text": "#111111",
+    "link": {
+      "text": "teal",
+      "opacity": 1
+    }
+  },
+  "font": "Roboto"
+}
